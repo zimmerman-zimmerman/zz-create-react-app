@@ -4,7 +4,7 @@
   "description": "Zimmerman & Zimmerman configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zimmerman-zimmerman/create-react-app.git",
+    "url": "https://github.com/zimmerman-zimmerman/zz-create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
