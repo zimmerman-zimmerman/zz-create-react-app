@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
-  "version": "3.3.0",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "zz-react-scripts",
+  "version": "3.3.1",
+  "description": "Zimmerman & Zimmerman configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
     "url": "https://github.com/zimmerman-zimmerman/create-react-app.git",
